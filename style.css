@@ -12,6 +12,9 @@ body {
 }
 
 .text-div {
+    background-color: rgba(137, 43, 226, 0.281);
+    border-radius: 2%;
+    padding: 13px 15px;
     color: white;
     position: absolute;
     top: 65%;

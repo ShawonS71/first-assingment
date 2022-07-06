@@ -26,7 +26,7 @@ body {
 }
 
 .cyan {
-    background-image: linear-gradient(navy, blue);
+    background-image: linear-gradient(navy, rgba(0, 0, 255, 0.541));
     color: aqua;
     padding: 7px 10px;
     border-radius: 12px;

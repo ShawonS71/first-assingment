@@ -11,8 +11,8 @@ body {
 
 }
 
-.backpic div {
-    color: aquamarine;
+.text-div {
+    color: rgb(252, 243, 242);
     text-align: center;
     height: 500px;
 }

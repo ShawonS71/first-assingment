@@ -12,9 +12,12 @@ body {
 }
 
 .text-div {
-    color: rgb(252, 243, 242);
+    color: white;
     position: absolute;
     top: 65%;
-    left: 50%;
+    left: 35%;
     transform: translate(-25%, -50%);
+    text-align: justify;
+    width: 50%;
+
 }

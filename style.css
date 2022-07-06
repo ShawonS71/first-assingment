@@ -21,3 +21,10 @@ body {
     width: 50%;
 
 }
+
+.cyan {
+    background-image: linear-gradient(navy, blue);
+    color: aqua;
+    padding: 7px 10px;
+    border-radius: 12px;
+}

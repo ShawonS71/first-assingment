@@ -4,7 +4,8 @@ body {
 
 .backpic {
     background-image: url(assing-pic/donation9.jpg);
-    height: 1000px;
+    padding: 600px 800px;
+    margin: 0%;
     background-repeat: no-repeat;
     background-size: cover;
 

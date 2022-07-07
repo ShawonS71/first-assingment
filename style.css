@@ -43,6 +43,7 @@ body {
 .donate-today {
     text-align: center;
     font-size: 20px;
+
 }
 
 .flex-container {
@@ -74,4 +75,5 @@ body {
     text-align: center;
     border-radius: 10px;
     font-size: 25px;
+    border-bottom: 5px solid gray;
 }

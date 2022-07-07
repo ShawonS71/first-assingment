@@ -89,11 +89,11 @@ h6 {
     background-image: linear-gradient(red, orange);
     height: 25px;
     position: absolute;
-    padding: 30px 45px;
+    padding: 35px 40px;
     border-radius: 15px;
-    margin: 7px;
+    margin: 30px;
     bottom: 80;
-    right: 40%;
+    right: 38%;
     transform: translate(-25%, -20%);
     font-size: large;
     color: cyan;

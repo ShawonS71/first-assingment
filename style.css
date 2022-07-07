@@ -101,3 +101,7 @@ h6 {
 
 
 }
+
+.box-with-logo {
+    display: flex;
+}

@@ -104,4 +104,21 @@ h6 {
 
 .box-with-logo {
     display: flex;
+
+}
+
+.medicine {
+    box-sizing: 150px;
+    margin: 70px;
+    height: 8px 20px;
+    padding: 70px 50px;
+    text-align: justify;
+    background-image: url(assing-pic/medicine.svg);
+    background-size: 100px;
+    background-repeat: no-repeat;
+
+    background-color: aqua;
+    width: 50% block;
+    border-radius: 10px;
+
 }

@@ -191,7 +191,7 @@ h6 {
 }
 
 .half-width img {
-    width: 60%;
+    width: 100%;
     padding-left: 10px;
     background-size: cover;
     border-radius: 20px;

@@ -57,10 +57,13 @@ body {
 }
 
 .donate-now-orange-color {
-    margin: 10px 12px;
+    margin: 5px;
     background-image: linear-gradient(red, orange);
     color: aquamarine;
-    padding: 3%;
+    padding: 20px 45px;
+    border-radius: 15px;
+    font-size: x-large;
+    margin-left: 800px;
 }
 
 
@@ -108,11 +111,6 @@ h6 {
 }
 
 .medicine {
-    box-sizing: 150px;
-    margin: 70px;
-    height: 8px 20px;
-    padding: 70px 50px;
-    text-align: justify;
     background-image: url(assing-pic/medicine.svg);
     background-size: 100px;
     background-repeat: no-repeat;
@@ -120,5 +118,43 @@ h6 {
     background-color: aqua;
     width: 50% block;
     border-radius: 10px;
+    box-sizing: 150px;
+    margin: 70px;
+    height: 8px 20px;
+    padding: 70px 50px;
+    text-align: justify;
+
+
+}
+
+.blood {
+    background-image: url(assing-pic/blood.svg);
+    background-size: 100px;
+    background-repeat: no-repeat;
+
+    background-color: rgb(201, 37, 37);
+    width: 50% block;
+    border-radius: 10px;
+    box-sizing: 150px;
+    margin: 70px;
+    height: 8px 20px;
+    padding: 70px 50px;
+    text-align: justify;
+
+}
+
+.education {
+    background-image: url(assing-pic/education.svg);
+    background-size: 100px;
+    background-repeat: no-repeat;
+
+    background-color: green;
+    width: 50% block;
+    border-radius: 10px;
+    box-sizing: 150px;
+    margin: 70px;
+    height: 8px 20px;
+    padding: 70px 50px;
+    text-align: justify;
 
 }

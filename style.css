@@ -198,3 +198,17 @@ h6 {
     text-align: center;
 
 }
+
+.half-width a {
+    text-decoration: none;
+    background-image: linear-gradient(red, orange);
+    padding: 18px 40px;
+    border-radius: 15px;
+    font-size: 18px;
+    color: aqua;
+}
+
+.survive-chapter {
+    width: 90%;
+    margin-left: 35px;
+}

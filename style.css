@@ -33,12 +33,20 @@ body {
     border-radius: 12px;
 }
 
+
+
+.donate-box-center {
+    position: absolute;
+
+}
+
 .donate-today {
     text-align: center;
-    width: block;
+    font-size: 20px;
 }
 
 .flex-container {
+    position: center;
     display: flex;
     width: 50%;
     height: 100px;

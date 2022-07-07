@@ -93,10 +93,11 @@ h6 {
     border-radius: 15px;
     margin: 30px;
     bottom: 80;
-    right: 38%;
-    transform: translate(-25%, -20%);
+    right: 40%;
+
     font-size: large;
     color: cyan;
+    border-bottom: 5px solid gray;
 
 
 }

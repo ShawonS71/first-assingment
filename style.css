@@ -86,14 +86,17 @@ h6 {
 }
 
 .purple {
-    background-image: linear-gradient(purple, orange);
-    height: 15px;
-    padding: 40px 50px;
-    border: 20px;
+    background-image: linear-gradient(red, orange);
+    height: 25px;
+    position: absolute;
+    padding: 30px 45px;
     border-radius: 15px;
+    margin: 7px;
+    bottom: 80;
+    right: 40%;
+    transform: translate(-25%, -20%);
     font-size: large;
-    color: aliceblue;
-    font: 800px;
+    color: cyan;
 
 
 }

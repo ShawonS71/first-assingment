@@ -55,6 +55,15 @@ body {
 
 }
 
+#orange-color {
+    margin: 10px 12px;
+    background-image: linear-gradient(red, orange);
+    color: aquamarine;
+    padding: 3%;
+}
+
+
+
 .box {
 
     width: 50%;

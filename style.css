@@ -56,7 +56,7 @@ body {
 
 }
 
-#orange-color {
+.donate-now-orange-color {
     margin: 10px 12px;
     background-image: linear-gradient(red, orange);
     color: aquamarine;

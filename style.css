@@ -37,3 +37,9 @@ body {
     text-align: center;
     width: block;
 }
+
+.flex-container {
+    width: 50%;
+    height: 200px;
+    background-color: whitesmoke;
+}

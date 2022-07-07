@@ -84,3 +84,16 @@ h6 {
     border-bottom: 2px solid rgba(128, 128, 128, 0.301);
     width: 50%;
 }
+
+.purple {
+    background-image: linear-gradient(purple, orange);
+    height: 15px;
+    padding: 40px 50px;
+    border: 20px;
+    border-radius: 15px;
+    font-size: large;
+    color: aliceblue;
+    font: 800px;
+
+
+}

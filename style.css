@@ -5,11 +5,16 @@ body {
 .backpic {
     background-image: url(assing-pic/donation9.jpg);
     padding: 600px 800px;
-    margin: 0%;
+    margin-bottom: 100px;
     background-repeat: no-repeat;
     background-size: cover;
 
 
+
+}
+
+.donate-section {
+    margin-bottom: 100px;
 }
 
 .text-div {
@@ -186,8 +191,8 @@ h6 {
 }
 
 .half-width img {
-    width: 80%;
-    padding-left: 20px;
+    width: 60%;
+    padding-left: 10px;
     background-size: cover;
     border-radius: 20px;
 
@@ -211,4 +216,41 @@ h6 {
 .survive-chapter {
     width: 90%;
     margin-left: 35px;
+}
+
+.donate-plan {
+    margin-left: 20px;
+    margin-bottom: 100px;
+}
+
+.get-my-update {
+    width: 50pxS;
+    text-align: center;
+}
+
+.row {
+    display: flex;
+    background-color: gray;
+    padding: 20px 10px;
+    margin: 1px 200px;
+    text-align: center;
+}
+
+.row-colum {
+    width: 50%;
+    box-sizing: 15px;
+
+    height: 8px 10px;
+
+    text-align: center;
+}
+
+footer {
+    width: 100;
+    text-align: center;
+    padding: 1000px;
+    background-color: black;
+    background-repeat: no-repeat;
+    color: white;
+
 }

@@ -56,6 +56,21 @@ body {
 
 }
 
+.flex-container span {
+    background-image: linear-gradient(red, orange);
+    width: 250px;
+    padding: 10px 40px;
+    margin: 10px;
+    border-radius: 10px;
+    border-bottom: 5px solid rgba(128, 128, 128, 0.301);
+    font-size: 25px;
+    text-align: center;
+    box-sizing: border-box;
+
+
+}
+
+
 .donate-now-orange-color {
     margin: 5px;
     background-image: linear-gradient(red, orange);
@@ -63,7 +78,7 @@ body {
     padding: 20px 45px;
     border-radius: 15px;
     font-size: x-large;
-    margin-left: 800px;
+    margin-left: 850px;
 }
 
 
@@ -83,9 +98,9 @@ body {
 
 h6 {
     text-align: center;
-    margin: 10px 450px;
+    margin: 10px 460px;
     border-bottom: 2px solid rgba(128, 128, 128, 0.301);
-    width: 50%;
+    width: 52%;
 }
 
 .purple {
@@ -116,7 +131,7 @@ h6 {
     background-size: 100px;
     background-repeat: no-repeat;
 
-    background-color: aqua;
+    background-color: rgba(0, 255, 255, 0.438);
     width: 50% block;
     border-radius: 10px;
     box-sizing: 150px;
@@ -133,7 +148,7 @@ h6 {
     background-size: 100px;
     background-repeat: no-repeat;
 
-    background-color: rgb(201, 37, 37);
+    background-color: rgba(201, 37, 37, 0.534);
     width: 50% block;
     border-radius: 10px;
     box-sizing: 150px;
@@ -149,7 +164,7 @@ h6 {
     background-size: 100px;
     background-repeat: no-repeat;
 
-    background-color: green;
+    background-color: rgba(0, 128, 0, 0.548);
     width: 50% block;
     border-radius: 10px;
     box-sizing: 150px;
@@ -179,7 +194,7 @@ h6 {
 }
 
 .half-width p {
-    background-image: linear-gradient(indigo, yellow);
+    background-image: linear-gradient(rgba(76, 0, 130, 0.445), rgba(255, 255, 0, 0.548));
     text-align: center;
 
 }
